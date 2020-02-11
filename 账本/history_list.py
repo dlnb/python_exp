@@ -7,7 +7,7 @@ Created on Sun Feb 2020
 #账单历史的程序
 from tkinter import *
 import json
-import tkinter.filedialog
+from tkinter import filedialog
 
 class Historylist():
     def __init__(self,username):

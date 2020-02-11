@@ -10,7 +10,7 @@ from tkinter import *
 import time
 import json
 from history_list import Historylist
-import tkinter.filedialog
+from tkinter import filedialog
 class MoneyBook():
     def __init__(self):
         login = Login()
